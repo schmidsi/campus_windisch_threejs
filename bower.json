@@ -1,0 +1,11 @@
+{
+  "name": "campus-windisch-threejs",
+  "private": true,
+  "dependencies": {
+    "three.js": "threejs#*"
+  },
+  "devDependencies": {
+    "chai": "~3.4.2",
+    "mocha": "~2.3.4"
+  }
+}
